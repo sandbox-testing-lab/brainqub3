@@ -3,7 +3,7 @@ google-auth-oauthlib
 google-auth-httplib2
 python-dotenv
 urllib3>=1.26.19 # not directly required, pinned by Snyk to avoid a vulnerability
-protobuf>=4.25.8 # not directly required, pinned by Snyk to avoid a vulnerability
+protobuf>=6.33.5 # not directly required, pinned by Snyk to avoid a vulnerability
 pyasn1>=0.6.2 # not directly required, pinned by Snyk to avoid a vulnerability
 zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
 requests>=2.32.2 # not directly required, pinned by Snyk to avoid a vulnerability
